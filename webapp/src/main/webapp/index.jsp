@@ -5,13 +5,13 @@
 	    <div class="mySlides fade">
 		        <div class="numbertext">1 / 3</div>
 			    <img src="img1.jpg" style="width:50%">
-			        <div class="text">Mahabaleshwar Trip</div>
+			        <div class="text">Ferrari World Trip(Abu Dhabi)</div>
 				  </div>
 
 				    <div class="mySlides fade">
 					        <div class="numbertext">2 / 3</div>
 						    <img src="img2.jpg" style="width:50%">
-						        <div class="text">Hemant Profile Photo</div>
+						    <div class="text">Mahabaleshwar Trip(Elephant Head)</div>
 							  </div>
 
 							    <div class="mySlides fade">
